@@ -37,4 +37,8 @@ const App = () => {
   );
 };
 
+const mapStateToProps = state => {
+  return null
+}
+
 export default App;
